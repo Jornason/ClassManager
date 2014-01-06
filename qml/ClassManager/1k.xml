@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+  <properties>
+  </properties>
+  <students>
+    <student>
+      <id>1k01</id>
+      <name>Jon</name>
+      <surname>Crespo Garde</surname>
+    </student>
+    <student>
+      <id>1k02</id>
+      <name>Alejandro</name>
+      <surname>Duo Ruiz</surname>
+    </student>
+    <student>
+      <id>1k03</id>
+      <name>Joseba</name>
+      <surname>Echeverri Nagore</surname>
+    </student>
+    <student>
+      <id>1k04</id>
+      <name>Nerea</name>
+      <surname>Elizalde Irazabal</surname>
+    </student>    
+    <student>
+      <id>1k05</id>
+      <name>Nora</name>
+      <surname>González Goñi</surname>
+    </student>
+    <student>
+      <id>1k06</id>
+      <name>Erik</name>
+      <surname>Goñi López</surname>
+    </student>
+    <student>
+      <id>1k07</id>
+      <name>Eva</name>
+      <surname>Huarte Castillo</surname>
+    </student>
+    <student>
+      <id>1k08</id>
+      <name>Iñigo</name>
+      <surname>Juanarena Esparza</surname>
+    </student>    
+    <student>
+      <id>1k09</id>
+      <name>Oihane</name>
+      <surname>Larraza Ruiz De Larramendi</surname>
+    </student>
+    <student>
+      <id>1k10</id>
+      <name>Miriam</name>
+      <surname>Marticorena Aldaz</surname>
+    </student>
+    <student>
+      <id>1k11</id>
+      <name>Leire</name>
+      <surname>Martinez Merino</surname>
+    </student>
+    <student>
+      <id>1k12</id>
+      <name>Unai</name>
+      <surname>Mata Samitier</surname>
+    </student>    
+    <student>
+      <id>1k13</id>
+      <name>Oier</name>
+      <surname>Oroz Esáin</surname>
+    </student>
+    <student>
+      <id>1k14</id>
+      <name>Aitor</name>
+      <surname>Pérez Erramuzpe</surname>
+    </student>
+    <student>
+      <id>1k15</id>
+      <name>Airtz</name>
+      <surname>Romo Pimoulier</surname>
+    </student>
+    <student>
+      <id>1k16</id>
+      <name>Ainhize</name>
+      <surname>Sainz Altuna</surname>
+    </student>    
+    <student>
+      <id>1k17</id>
+      <name>Oihana</name>
+      <surname>Santiago Segura</surname>
+    </student>
+    <student>
+      <id>1k18</id>
+      <name>Iker</name>
+      <surname>Sanz Ruiz</surname>
+    </student>
+    <student>
+      <id>1k19</id>
+      <name>Ibai</name>
+      <surname>Solis Amostegui</surname>
+    </student>
+    <student>
+      <id>1k20</id>
+      <name>Jon Ander</name>
+      <surname>Torbisco Hervás</surname>
+    </student>    
+    <student>
+      <id>1k21</id>
+      <name>Ane</name>
+      <surname>Unzueta Echavarri</surname>
+    </student>
+    <student>
+      <id>1k22</id>
+      <name>Oihane</name>
+      <surname>Urra Andueza</surname>
+    </student>
+    <student>
+      <id>1k23</id>
+      <name>Izaskun</name>
+      <surname>Urtasun Ibarrola</surname>
+    </student>
+    <student>
+      <id>1k24</id>
+      <name>Ellande</name>
+      <surname>Urtasun Olayzola</surname>
+    </student>    
+    <student>
+      <id>1k25</id>
+      <name>Haizea</name>
+      <surname>Urtasun Urtasun</surname>
+    </student>
+    <student>
+      <id>1k26</id>
+      <name>Nikolas</name>
+      <surname>Valencia Salcedo</surname>
+    </student>
+    <student>
+      <id>1k27</id>
+      <name>Jon</name>
+      <surname>Zabalza Ibiricu</surname>
+    </student>
+  </students>
+</class>
